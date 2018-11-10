@@ -1,3 +1,2 @@
 # hello-world
-# This is personal-branch msg
-# 
+# Add more project details here.
